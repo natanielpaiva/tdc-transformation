@@ -58,12 +58,11 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Agradeça a{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-          {' '}por um framework tão legal
+          Se é o futuro da Web?
+          {' '}
+          Não sei! Mas tem tudo para ser!
         </a>
+          
       </footer>
     </div>
   )
