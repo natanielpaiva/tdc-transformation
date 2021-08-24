@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Eu sou Nataniel Paiva
-          <code className={styles.code}>Tech Lead na Zup e Instrutor na Udemy</code>
+          <code className={styles.code}>Tech Lead na Zup Innovation e Instrutor na Udemy</code>
         </p>
 
         <div className={styles.grid}>
